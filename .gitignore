@@ -1,0 +1,4 @@
+node_modules
+verifyfirebasetoken.json
+.env
+.vercel
