@@ -3,7 +3,6 @@
 **Project:** LoanLink — Microloan Request & Approval Tracker System (Backend)  
 **Purpose:** To build a secure REST API with core business logic for users, loans, loan applications, and payments, including JWT/session authentication, Firebase token verification, Stripe webhook handling, and MongoDB data persistence.
 
-
 ---
 
 ## Key Features
